@@ -1,2 +1,2 @@
-This document is for the MASTER BRANCH
-This document is to be uploaded to the master branch
+This document is for the Practice Branch
+This document is to be uploaded to the Practice Branch
