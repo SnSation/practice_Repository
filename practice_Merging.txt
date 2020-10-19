@@ -1,0 +1,2 @@
+This line is to be appended to the MASTER practice_Merging.txt file
+FROM the practice branch
